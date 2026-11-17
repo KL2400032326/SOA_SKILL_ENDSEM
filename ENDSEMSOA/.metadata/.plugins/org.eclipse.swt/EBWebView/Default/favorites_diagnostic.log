@@ -1,0 +1,30 @@
+2026-07-29 10:45:17.265: [INFO] OnDoneLoading sync enabled: 0
+2026-07-29 10:45:33.622: [INFO] OnDoneLoading sync enabled: 0
+2026-07-29 10:46:46.118: [INFO] OnDoneLoading sync enabled: 0
+2026-07-29 10:49:25.046: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 10:36:08.190: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 10:38:33.584: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 10:38:48.509: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 10:49:40.198: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 10:52:01.357: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 10:55:05.571: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 11:08:11.642: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 11:09:59.532: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 10:58:52.671: [INFO] CurrentProfilePath: C:\SOA31\Experimentsofsoa\skill1\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 10:58:52.671: [INFO] Profiles total count: 1
+2026-08-13 10:58:52.671: [INFO] Profile: name=Profile 1 path=C:\SOA31\Experimentsofsoa\skill1\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-08-13 10:58:52.671: [INFO] LastUsedProfileDir: C:\SOA31\Experimentsofsoa\skill1\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-13 10:58:52.671: [INFO] OnDoneLoading sync enabled: 0
+2026-08-13 10:58:52.671: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-13 10:58:52.671: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-13 10:58:52.671: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-13 11:04:41.778: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 04:20:09.055: [INFO] CurrentProfilePath: C:\SOA31\Experimentsofsoa\skill1\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 04:20:09.055: [INFO] Profiles total count: 1
+2026-10-15 04:20:09.055: [INFO] Profile: name=Profile 1 path=C:\SOA31\Experimentsofsoa\skill1\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-15 04:20:09.055: [INFO] LastUsedProfileDir: C:\SOA31\Experimentsofsoa\skill1\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 04:20:09.055: [INFO] OnDoneLoading sync enabled: 0
+2026-10-15 04:20:09.055: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-15 04:20:09.055: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-15 04:20:09.055: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 04:42:52.189: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
